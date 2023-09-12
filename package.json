@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Pfsense Router",
+  "name": "@johnbenz/homebridge-pfsense",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Integrate Pfsense Router into Homebridge",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/johnbenz13/homebridge-pfsense.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/johnbenz13/homebridge-pfsense/issues"
   },
   "engines": {
     "node": "^18.17.0",
